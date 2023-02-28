@@ -13,3 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Project exclude paths
+/p0021basicviews/build/
+/p0021basicviews/build/intermediates/javac/debug/classes/
