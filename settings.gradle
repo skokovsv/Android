@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "Android"
 include ':app'
 include ':p003firstproject'
+include ':p0041layouts'
